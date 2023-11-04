@@ -2,6 +2,7 @@
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
+# https://www.youtube.com/watch?v=sjCOc4g-AdY&ab_channel=MasterVisualStudio
 
 variables:
   - name: PipelineName
@@ -21,4 +22,3 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
-	
